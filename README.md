@@ -6,4 +6,4 @@ Proyek pembelajaran Rekayasa Perangkat Lunak.
 - Pemeriksaan jadwal
 - Melihat status pengajuan
 ## Developer
-Nama: Nama Mahasiswa
+Nama: Mazhida Al Muzaaqy
